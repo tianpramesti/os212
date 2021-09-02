@@ -2,6 +2,6 @@
 
 # Hello, World!
 
-## I am Pramesti. This is my repository for OS212 course.
+## This is my repository for OS212 course.
 
 Checkout my top 10 links every week:
