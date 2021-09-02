@@ -1,3 +1,11 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 50 L01 SCELE/Discord related.
+ZCZC W00 10 L03 GitHub related (Exploring and following people on Github).
+ZCZC W00 30 L32 YouTube: study, etc.
+ZCZC W00 180 L84 Relax, Rest, and Sleep.
+ZCZC W00 180 L70 Studying for other courses.
+ZCZC W00 45 L86 House chores (Cleaning my bedroom).
+ZCZC W00 20 L83 Pets: feeding, playing, etc.
