@@ -14,5 +14,14 @@ ZCZC W01 40 L05 Quiz related (OS and Aljabar Linear).
 ZCZC W01 100 L02 ZOOM meetings related.
 ZCZC W01 120 L09 Assignment in General.
 ZCZC W01 330 L11 Assignment #01.
-
- 
+ZCZC W01 20 L80 Waching: YouTube.
+ZCZC W01 150 L02 ZOOM meetings related.
+ZCZC W01 150 L01 SCELE related (Forums).
+ZCZC W01 180 L84 Relax, Rest, and Sleep. 
+ZCZC W01 45 L70 Studying other courses.
+ZCZC W01 30 L81 Listening: Music.
+ZCZC W01 50 L22 SDA checkpoint.
+ZCZC W01 20 L83 Pets: feeding, playing, etc
+ZCZC W01 15 L32 YouTube: study.
+ZCZC W01 40 L11 Assignment #01
+ZCZC W01 200 L99 Doing an essay. 
