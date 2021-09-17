@@ -9,9 +9,9 @@ Operating Systems 2021-2 (Odd Semester 2021/2022)
 
 ## Welcome to my page! 
 
-Hello! I'm Pramesti known as Bey. This is my public repository for OS212.  
+Hello! I'm Pramesti known as Bey or Tian. This is my public repository for OS212.  
 
-
-
-
+<br>
+<br>
+<br>
 © 2021 — Pramesti Anjani Putri
