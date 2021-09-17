@@ -1,6 +1,6 @@
 Operating Systems 2021-2 (Odd Semester 2021/2022)
 
-# Tian's OS212 Github Repository
+# Tian's OS212 GitHub Repository
 
 [![HOME](https://img.shields.io/badge/-HOME-FFFF00?style=for-the-badge&logoColor=white)](.)
 [![LOG](https://img.shields.io/badge/-LOG-FF0080?style=for-the-badge&logoColor=white)](TXT/mylog.txt)
@@ -10,6 +10,8 @@ Operating Systems 2021-2 (Odd Semester 2021/2022)
 ## Welcome to my page! 
 
 Hello! I'm Pramesti known as Bey. This is my public repository for OS212.  
+
+
 
 
 © 2021 — Pramesti Anjani Putri
