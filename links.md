@@ -4,6 +4,11 @@ permalink : /LINKS/
 
 # Tian's OS212 Repository
 
+[![HOME](https://img.shields.io/badge/-HOME-FFFF00?style=for-the-badge&logoColor=white)](https://tianpramesti.github.io/os212/)
+[![LOG](https://img.shields.io/badge/-LOG-FF0080?style=for-the-badge&logoColor=white)](https://github.com/tianpramesti/os212/blob/master/TXT/mylog.txt)
+[![LINKS](https://img.shields.io/badge/-LINKS-8000FF?style=for-the-badge&logoColor=white)](https://github.com/tianpramesti/os212/blob/master/links.md)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tianpramesti/os212)
+
 ## LINKS
 
 Hi! Thank you for visiting my repo. This repo contains links that might be helpful.
@@ -20,6 +25,7 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 
 **Week 02**
 1. [Learn more about Bash](https://www.javatpoint.com/bash-introduction)<br>Bingung belajar Bash dari mana? Website ini punya segalanya, mulai dari Bash tutorial, Bash operators, conditional statements, Bash loops, Bash string, Bash function, Bash array, dan lain-lain. Setiap bagian akan ada sub-bab yang lebih rinci lagi.
+
 
 
 Link will be updated throughout the week!
