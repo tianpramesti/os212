@@ -4,9 +4,8 @@ permalink : /LINKS/
 
 # Tian's OS212 Repository
 
-*******************
-## LINKS
-*******************
+###### Links
+
 Hi! Thank you for visiting my repo. This repo contains links that might be helpful.
 
 **Week 00**
