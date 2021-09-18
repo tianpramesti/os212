@@ -21,11 +21,13 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 
 2. [Vim basics in 8 minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br> Intro yang bagus untuk belajar vim, *quick and straight to the point*. Menjelaskan cara mengedit, menyimpan, menghapus single dan multiple lines, undo dan redo, dan cara keluar dari Vim. 
 
-
+3. [Learn more about Bash](https://www.javatpoint.com/bash-introduction)<br>Bingung belajar Bash dari mana? Website ini punya segalanya, mulai dari Bash tutorial, Bash operators, conditional statements, Bash loops, Bash string, Bash function, Bash array, dan lain-lain. Setiap bagian akan ada sub-bab yang lebih rinci lagi.
 
 **Week 02**
-1. [Learn more about Bash](https://www.javatpoint.com/bash-introduction)<br>Bingung belajar Bash dari mana? Website ini punya segalanya, mulai dari Bash tutorial, Bash operators, conditional statements, Bash loops, Bash string, Bash function, Bash array, dan lain-lain. Setiap bagian akan ada sub-bab yang lebih rinci lagi.
+1. [The RSA Encryption Algorithm (1 of 2: Computing an Example)](https://www.youtube.com/watch?v=4zahvcJ9glg)<br>RSA adalah salah satu teknik kriptografi dimana kunci untuk melakukan enkripsi berbeda dengan kunci untuk melakukan dekripsi. Kunci publik digunakan untuk enkripsi, sedangkan kunci kunci private digunakan untuk dekripsi. Kunci publik dapat dimiliki oleh sembarang orang, tetapi kunci private hanya dimiliki oleh orang tertentu saja.
 
+2. [The RSA Encryption Algorithm (2 of 2: Generating the Keys)](https://www.youtube.com/watch?v=oOcTVTpUsPQ)<br>Video ini menjelaskan konsep dari algoritma RSA. Langkah pertama algoritma ini adalah dengan memilih dua angka prima yang bersifat rahasia dan akan diproses melalui alur perhitungan yang nantinya akan menghasilkan kunci publik (e,n) dan kunci private (e,m), dimana n tidak bersifat rahasia, namun ia diperlukan pada perhitungan enkripsi/dekripsi.
 
-
+<br>
+<br>
 Link will be updated throughout the week!
