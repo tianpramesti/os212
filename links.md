@@ -7,6 +7,7 @@ permalink : /LINKS/
 [![HOME](https://img.shields.io/badge/-HOME-FFFF00?style=for-the-badge&logoColor=white)](https://tianpramesti.github.io/os212/)
 [![LOG](https://img.shields.io/badge/-LOG-FF0080?style=for-the-badge&logoColor=white)](https://github.com/tianpramesti/os212/blob/master/TXT/mylog.txt)
 [![LINKS](https://img.shields.io/badge/-LINKS-8000FF?style=for-the-badge&logoColor=white)](https://github.com/tianpramesti/os212/blob/master/links.md)
+[![RANK](https://img.shields.io/badge/-RANK-0011ff?style=for-the-badge&logoColor=white)](https://github.com/tianpramesti/os212/blob/master/TXT/myrank.txt)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tianpramesti/os212)
 
 ## LINKS
