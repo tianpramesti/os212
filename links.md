@@ -29,6 +29,7 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 
 2. [The RSA Encryption Algorithm (2 of 2: Generating the Keys)](https://www.youtube.com/watch?v=oOcTVTpUsPQ)<br>Video ini menjelaskan konsep dari algoritma RSA. Langkah pertama algoritma ini adalah dengan memilih dua angka prima yang bersifat rahasia dan akan diproses melalui alur perhitungan yang nantinya akan menghasilkan kunci publik (e,n) dan kunci private (e,m), dimana n tidak bersifat rahasia, namun ia diperlukan pada perhitungan enkripsi/dekripsi.
 
+3. [C Cheat Sheet](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>Websitenya menyediakan C syntax, data types, structure, dan common library function pada bahasa C.
 <br>
 <br>
 Link will be updated throughout the week!
