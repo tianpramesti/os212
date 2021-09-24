@@ -22,11 +22,9 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 
 2. [Vim basics in 8 minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>Intro yang bagus untuk belajar vim, *quick and straight to the point*. Menjelaskan cara mengedit, menyimpan, menghapus single dan multiple lines, undo dan redo, dan cara keluar dari Vim. 
 
-3. [Learn more about Bash](https://www.javatpoint.com/bash-introduction)<br>Bingung belajar Bash dari mana? Website ini punya segalanya, mulai dari Bash tutorial, Bash operators, conditional statements, Bash loops, Bash string, Bash function, Bash array, dan lain-lain. Setiap bagian akan ada sub-bab yang lebih rinci lagi.
+3. [Sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)<br>Sed merupakan salah satu utilitas pemrosesan teks paling menonjol di GNU/Linux, mampu menyelesaikan tugas pemrosesan teks yang kompleks dengan beberapa baris kode. Saya tertarik dan menemukan tutorial yang cukup lengkap untuk mempelajari tentang Sed.
 
-4. [Sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)<br>Sed merupakan salah satu utilitas pemrosesan teks paling menonjol di GNU/Linux, mampu menyelesaikan tugas pemrosesan teks yang kompleks dengan beberapa baris kode. Saya tertarik dan menemukan tutorial yang cukup lengkap untuk mempelajari tentang Sed.
-
-5. [AWK Tutorial](https://www.tutorialspoint.com/awk/index.htm)<br>Tutorial ini membuat saya mengerti tentang AWK. Ada pembahasan mengenai ikhtisar AWK, lingkungan, dan alur kerjanya, tutorial berlanjut untuk menjelaskan sintaks, variabel, operator, array, loop, dan fungsi yang digunakan dalam AWK. Ini juga mencakup topik-topik seperti pengalihan output dan pencetakan.
+4. [AWK Tutorial](https://www.tutorialspoint.com/awk/index.htm)<br>Tutorial ini membuat saya mengerti tentang AWK. Ada pembahasan mengenai ikhtisar AWK, lingkungan, dan alur kerjanya, tutorial berlanjut untuk menjelaskan sintaks, variabel, operator, array, loop, dan fungsi yang digunakan dalam AWK. Ini juga mencakup topik-topik seperti pengalihan output dan pencetakan.
 
 **Week 02**
 1. [Crypthography](https://www.synopsys.com/glossary/what-is-cryptography.html)<br>Website ini cukup bagus sebagai intro dalam mengenal kriptografi. Dijelaskan juga perbedaan antara *symmetric* dan *asymmetric cryptography*. Masalah apa yang diselesaikan oleh kriptografi juga dijabarkan secara jelas.
