@@ -18,29 +18,31 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 1. [Learn about Operating Systems in 1 minute](https://www.youtube.com/watch?v=fkGCLIQx1MI)<br>Penjelasan singkat mengenai definisi Operating System dan beberapa jenis Operating Sytems yang paling umum. Disajikan dengan animasi sehingga menyenangkan untuk ditonton!  
 
 **Week 01**
-1. [How to use Nano text editor](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI)<br>Beginner guide, yippie! Tutorial cara menggunakan Nano di Linux/Mac. Menjelaskan dasar-dasar untuk membuat file, menavigasi, mengedit, menyimpan, dan keluar dari file menggunakan Nano. Tutorial dibagi menjadi beberapa part sehingga memudahkan untuk memilih tutorial yang dibutuhkan.  
+1. [How to use Nano text editor](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI)<br>Beginner guide, yippie! Tutorial menggunakan Nano di Linux/Mac. Menjelaskan dasar-dasar untuk membuat file, menavigasi, mengedit, menyimpan, dan keluar dari file menggunakan Nano. Setiap bagian diberi batasan, sehingga memudahkan untuk memilih tutorial yang dibutuhkan.  
 
-2. [Vim basics in 8 minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br> Intro yang bagus untuk belajar vim, *quick and straight to the point*. Menjelaskan cara mengedit, menyimpan, menghapus single dan multiple lines, undo dan redo, dan cara keluar dari Vim. 
+2. [Vim basics in 8 minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>Intro yang bagus untuk belajar vim, *quick and straight to the point*. Menjelaskan cara mengedit, menyimpan, menghapus single dan multiple lines, undo dan redo, dan cara keluar dari Vim. 
 
 3. [Learn more about Bash](https://www.javatpoint.com/bash-introduction)<br>Bingung belajar Bash dari mana? Website ini punya segalanya, mulai dari Bash tutorial, Bash operators, conditional statements, Bash loops, Bash string, Bash function, Bash array, dan lain-lain. Setiap bagian akan ada sub-bab yang lebih rinci lagi.
 
 4. [Sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)<br>Sed merupakan salah satu utilitas pemrosesan teks paling menonjol di GNU/Linux, mampu menyelesaikan tugas pemrosesan teks yang kompleks dengan beberapa baris kode. Saya tertarik dan menemukan tutorial yang cukup lengkap untuk mempelajari tentang Sed.
 
-5. [Awk Tutorial](https://www.tutorialspoint.com/awk/index.htm)<br>Tutorial ini membuat saya mengerti tentang AWK. Ada pembahasan mengenai ikhtisar AWK, lingkungan, dan alur kerjanya, tutorial berlanjut untuk menjelaskan sintaks, variabel, operator, array, loop, dan fungsi yang digunakan dalam AWK. Ini juga mencakup topik-topik seperti pengalihan output dan pencetakan.
+5. [AWK Tutorial](https://www.tutorialspoint.com/awk/index.htm)<br>Tutorial ini membuat saya mengerti tentang AWK. Ada pembahasan mengenai ikhtisar AWK, lingkungan, dan alur kerjanya, tutorial berlanjut untuk menjelaskan sintaks, variabel, operator, array, loop, dan fungsi yang digunakan dalam AWK. Ini juga mencakup topik-topik seperti pengalihan output dan pencetakan.
 
 **Week 02**
-1. [The RSA Encryption Algorithm (1 of 2: Computing an Example)](https://www.youtube.com/watch?v=4zahvcJ9glg)<br>RSA adalah salah satu teknik kriptografi dimana kunci untuk melakukan enkripsi berbeda dengan kunci untuk melakukan dekripsi. Kunci publik digunakan untuk enkripsi, sedangkan kunci kunci private digunakan untuk dekripsi. Kunci publik dapat dimiliki oleh sembarang orang, tetapi kunci private hanya dimiliki oleh orang tertentu saja.
+1. [Crypthography](https://www.synopsys.com/glossary/what-is-cryptography.html)<br>Website ini cukup bagus sebagai intro dalam mengenal kriptografi. Dijelaskan juga perbedaan antara *symmetric* dan *asymmetric cryptography*. Masalah apa yang diselesaikan oleh kriptografi juga dijabarkan secara jelas.
 
-2. [The RSA Encryption Algorithm (2 of 2: Generating the Keys)](https://www.youtube.com/watch?v=oOcTVTpUsPQ)<br>Video ini menjelaskan konsep dari algoritma RSA. Langkah pertama algoritma ini adalah dengan memilih dua angka prima yang bersifat rahasia dan akan diproses melalui alur perhitungan yang nantinya akan menghasilkan kunci publik (e,n) dan kunci private (e,m), dimana n tidak bersifat rahasia, namun ia diperlukan pada perhitungan enkripsi/dekripsi.
+2. [The RSA Encryption Algorithm (1 of 2: Computing an Example)](https://www.youtube.com/watch?v=4zahvcJ9glg)<br>RSA adalah salah satu teknik kriptografi dimana kunci untuk melakukan enkripsi berbeda dengan kunci untuk melakukan dekripsi. Kunci publik digunakan untuk enkripsi, sedangkan kunci kunci private digunakan untuk dekripsi. Kunci publik dapat dimiliki oleh sembarang orang, tetapi kunci private hanya dimiliki oleh orang tertentu saja.
 
-3. [C Cheat Sheet](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>Cheat sheet ini  menyajikan ringkasan syntax, data types, structure, dan common library function pada bahasa C, sangat membantu jika ingin menggunakan fungsi yang kita lupa.
+3. [The RSA Encryption Algorithm (2 of 2: Generating the Keys)](https://www.youtube.com/watch?v=oOcTVTpUsPQ)<br>Video ini menjelaskan konsep dari algoritma RSA. Langkah pertama algoritma ini adalah dengan memilih dua angka prima yang bersifat rahasia dan akan diproses melalui alur perhitungan yang nantinya akan menghasilkan kunci publik (e,n) dan kunci private (e,m), dimana n tidak bersifat rahasia, namun ia diperlukan pada perhitungan enkripsi/dekripsi.
+
+4. [C Cheat Sheet](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>Cheat sheet ini  menyajikan ringkasan syntax, data types, structure, dan common library function pada bahasa C, sangat membantu jika ingin menggunakan fungsi yang kita lupa.
 
 **Week 03**
 1. [File System](https://www.guru99.com/file-systems-operating-system.html)<br>Tadaa! Website bagus yang merangkap sebagian besar materi yang dipelajari minggu ke-3. File sendiri merupakan kumpulan informasi yang berkorelasi yang direkam pada penyimpanan sekunder. File sistem berarti adalah proses mengelola bagaimana dan di mana data pada disk penyimpanan. Pembahasan mengenai file attributes, structure, type dan lainnya dibahas pada link ini!
 
 2. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)<br>NTFS, FAT32, exFAT, ext4 dan APFS hanyalah beberapa sistem file yang digunakan untuk mengatur data pada drive penyimpanan. Video ini menguraikan perbedaan antara ini dan sistem file lainnya, dan menjelaskan cara memilih di antara keduanya.
 
-3. [Linux Directories Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>struktur sistem file Linux berbeda dengan Windows, tampak sangat asing. Drive C:\ dan huruf drive hilang, digantikan oleh / dan direktori terdengar samar, biasanya terdiri dari tiga huruf. Filesystem Hierarchy Standard (FHS) mendefinisikan struktur sistem file di Linux. Video ini menyediakan tujuan dari direktori Linux yang paling umum.
+3. [Linux Directories Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>Struktur sistem file Linux berbeda dengan Windows, tampak sangat asing. Drive C:\ dan huruf drive hilang, digantikan oleh / dan direktori terdengar samar, biasanya terdiri dari tiga huruf. Filesystem Hierarchy Standard (FHS) mendefinisikan struktur sistem file di Linux. Video ini menyediakan tujuan dari direktori Linux yang paling umum.
 
 
 Link will be updated throughout the week!
