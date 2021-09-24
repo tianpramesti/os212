@@ -27,3 +27,12 @@ ZCZC W02  60 L09 OS Assignment in General
 ZCZC W02  20 L32 YouTube: study Bash, Regex, AWK.
 ZCZC W02  60 L04 GitHub Pages related
 ZCZC W02 130 L80 Waching: Movie and Youtube
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03  30 L07 Demo related
+ZCZC W03  60 L08 AsDos: asking, etc.
+ZCZC W03  20 L05 OS Quiz related
+ZCZC W03  50 L04 GitHub Pages related
+ZCZC W03  20 L26 C-language related
+ZCZC W03  30 L32 YouTube: study file system, etc.
+ZCZC W03  20 L64 Helping OS related problem to a friend
+ZCZC W03 115 L01 SCELE/Discord related
