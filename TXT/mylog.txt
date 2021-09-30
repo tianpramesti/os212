@@ -36,3 +36,10 @@ ZCZC W03  20 L26 C-language related
 ZCZC W03  30 L32 YouTube: study file system, etc.
 ZCZC W03  20 L64 Helping OS related problem to a friend
 ZCZC W03 115 L01 SCELE/Discord related
+ZCZC W04  90 L09 Assignment in General
+ZCZC W04  15 L07 Demo related
+ZCZC W04  15 L05 Quiz related
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04  35 L01 SCELE/Discord related
+ZCZC W04  10 L08 AsDos: asking, etc.
+ZCZC W04 180 L84 Relax, Rest, and Sleep
