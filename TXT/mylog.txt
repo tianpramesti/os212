@@ -43,3 +43,5 @@ ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04  35 L01 SCELE/Discord related
 ZCZC W04  10 L08 AsDos: asking, etc.
 ZCZC W04 180 L84 Relax, Rest, and Sleep
+ZCZC W04  30 L64 Helping OS related problem to a friend.
+ZCZC W04  15 L04 GitHub Pages related

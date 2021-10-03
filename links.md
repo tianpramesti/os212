@@ -42,5 +42,13 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 
 3. [Linux Directories Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>Struktur sistem file Linux berbeda dengan Windows, tampak sangat asing. Drive C:\ dan huruf drive hilang, digantikan oleh / dan direktori terdengar samar, biasanya terdiri dari tiga huruf. Filesystem Hierarchy Standard (FHS) mendefinisikan struktur sistem file di Linux. Video ini menyediakan tujuan dari direktori Linux yang paling umum.
 
+**Week 04**
+1. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>Dynamic libraries muncul sebagai file terpisah di luar file yang dapat dieksekusi. Sehingga, hanya perlu satu salinan file library saat runtime. Pada waktu kompilasi, static libraries tetap terkunci ke dalam program. Static libraries berisi program file yang menyimpan salinan file library pada waktu kompilasi.
+
+2. [What is memory mapping in Linux?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>Memory mapping adalah mekanisme yang memetakan sebagian atau seluruh file pada disk ke berbagai alamat dalam ruang alamat aplikasi. Aplikasi tersebut dapat mengakses file pada disk dengan cara yang sama seperti mengakses memori dinamis.
+
+
+
+
 
 Link will be updated throughout the week!
