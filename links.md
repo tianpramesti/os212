@@ -18,11 +18,11 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 1. [Learn about Operating Systems in 1 minute](https://www.youtube.com/watch?v=fkGCLIQx1MI)<br>Penjelasan singkat mengenai definisi Operating System dan beberapa jenis Operating Sytems yang paling umum. Disajikan dengan animasi sehingga menyenangkan untuk ditonton!  
 
 **Week 01**
-1. [How to use Nano text editor](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI)<br>Beginner guide, yippie! Tutorial menggunakan Nano di Linux/Mac. Menjelaskan dasar-dasar untuk membuat file, menavigasi, mengedit, menyimpan, dan keluar dari file menggunakan Nano. Setiap bagian diberi batasan, sehingga memudahkan untuk memilih tutorial yang dibutuhkan.  
+1. [How to use Nano Text Editor](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI)<br>Beginner guide, yippie! Tutorial menggunakan Nano di Linux/Mac. Menjelaskan dasar-dasar untuk membuat file, menavigasi, mengedit, menyimpan, dan keluar dari file menggunakan Nano. Setiap bagian diberi batasan, sehingga memudahkan untuk memilih tutorial yang dibutuhkan.  
 
-2. [Vim basics in 8 minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>Intro yang bagus untuk belajar vim, *quick and straight to the point*. Menjelaskan cara mengedit, menyimpan, menghapus single dan multiple lines, undo dan redo, dan cara keluar dari Vim. 
+2. [Vim Basics in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>Intro yang bagus untuk belajar vim, *quick and straight to the point*. Menjelaskan cara mengedit, menyimpan, menghapus single dan multiple lines, undo dan redo, dan cara keluar dari Vim. 
 
-3. [Sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)<br>Sed merupakan salah satu utilitas pemrosesan teks paling menonjol di GNU/Linux, mampu menyelesaikan tugas pemrosesan teks yang kompleks dengan beberapa baris kode. Saya tertarik dan menemukan tutorial yang cukup lengkap untuk mempelajari tentang Sed.
+3. [Sed, a Stream Editor](https://www.gnu.org/software/sed/manual/sed.html)<br>Sed merupakan salah satu utilitas pemrosesan teks paling menonjol di GNU/Linux, mampu menyelesaikan tugas pemrosesan teks yang kompleks dengan beberapa baris kode. Saya tertarik dan menemukan tutorial yang cukup lengkap untuk mempelajari tentang Sed.
 
 4. [AWK Tutorial](https://www.tutorialspoint.com/awk/index.htm)<br>Tutorial ini membuat saya mengerti tentang AWK. Ada pembahasan mengenai ikhtisar AWK, lingkungan, dan alur kerjanya, tutorial berlanjut untuk menjelaskan sintaks, variabel, operator, array, loop, dan fungsi yang digunakan dalam AWK. Ini juga mencakup topik-topik seperti pengalihan output dan pencetakan.
 
@@ -45,10 +45,15 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 **Week 04**
 1. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>Dynamic libraries muncul sebagai file terpisah di luar file yang dapat dieksekusi. Sehingga, hanya perlu satu salinan file library saat runtime. Pada waktu kompilasi, static libraries tetap terkunci ke dalam program. Static libraries berisi program file yang menyimpan salinan file library pada waktu kompilasi.
 
-2. [What is memory mapping in Linux?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>Memory mapping adalah mekanisme yang memetakan sebagian atau seluruh file pada disk ke berbagai alamat dalam ruang alamat aplikasi. Aplikasi tersebut dapat mengakses file pada disk dengan cara yang sama seperti mengakses memori dinamis.
+2. [What is Memory Mapping in Linux?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>Memory mapping adalah mekanisme yang memetakan sebagian atau seluruh file pada disk ke berbagai alamat dalam ruang alamat aplikasi. Aplikasi tersebut dapat mengakses file pada disk dengan cara yang sama seperti mengakses memori dinamis.
 
+**Week 05**
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>Memori virtual adalah area ruang penyimpanan memori sekunder sistem komputer (seperti hard disk atau solid state drive) yang bertindak seolah-olah itu adalah bagian dari RAM atau memori utama sistem. Selain itu, website ini menjelaskan tentang Demand Paging, Swapping, dan Thrashing.
+
+2. [Non-Uniform Memory Access (NUMA)]<br>Non-uniform memory access (NUMA) adalah desain memori komputer yang digunakan dalam multiprocessing, di mana waktu akses memori tergantung pada lokasi memori relatif terhadap prosesor. Website juga menjelaskan lebih jauh terkait NUMA affinity.
 
 
 
 
 Link will be updated throughout the week!
+
