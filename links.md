@@ -50,8 +50,14 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 **Week 05**
 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>Memori virtual adalah area ruang penyimpanan memori sekunder sistem komputer (seperti hard disk atau solid state drive) yang bertindak seolah-olah itu adalah bagian dari RAM atau memori utama sistem. Selain itu, website ini menjelaskan tentang Demand Paging, Swapping, dan Thrashing.
 
-2. [Non-Uniform Memory Access (NUMA)]<br>Non-uniform memory access (NUMA) adalah desain memori komputer yang digunakan dalam multiprocessing, di mana waktu akses memori tergantung pada lokasi memori relatif terhadap prosesor. Website juga menjelaskan lebih jauh terkait NUMA affinity.
+2. [Non-Uniform Memory Access (NUMA)](https://www.techplayon.com/what-is-numa-non-uniform-memory-access/)<br>Non-uniform memory access (NUMA) adalah desain memori komputer yang digunakan dalam multiprocessing, di mana waktu akses memori tergantung pada lokasi memori relatif terhadap prosesor. Website juga menjelaskan lebih jauh terkait NUMA affinity.
 
+**Week 06**
+1. [What is The Purpose of Interrupt?](https://allaboutcomputersolutions.com/qa/what-is-the-purpose-of-interrupt.html)<br>Interupsi adalah sinyal yang dikirim ke CPU oleh perangkat eksternal, biasanya perangkat I/O. Mereka memberi tahu CPU untuk menghentikan aktivitasnya saat ini dan menjalankan bagian yang sesuai dari sistem operasi. Untuk selebihnya, website ini menjelaskan lebih rinci tentang interupsi dan dijelaskan secara singkat dan jelas.
+
+2. [Process Control Block in Operating System](https://afteracademy.com/blog/process-control-block-in-operating-system)<br>Process Control Block adalah struktur data yang digunakan untuk menyimpan informasi dari suatu proses yang mungkin diperlukan untuk mengatur penjadwalan proses tertentu. Webisite ini juga menyajikan macam-macam atribut dari PCB beserta penjelasan singkatnya.
+
+3. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)<br>IPC digunakan untuk bertukar data antara beberapa utas dalam satu atau lebih proses atau program. Proses dapat berjalan pada satu atau beberapa komputer yang terhubung oleh jaringan. 
 
 
 

@@ -52,4 +52,12 @@ ZCZC W05  15 L64 Helping OS related problem to a friend.
 ZCZC W05 100 L02 ZOOM meetings related
 ZCZC W05 180 L70 Studying for other courses.
 ZCZC W05  35 L32 YouTube: OS related.
-
+ZCZC W06  60 L09 Assignment in General
+ZCZC W06  15 L64 Helping OS related problem to a friend.
+ZCZC W06  70 L01 SCELE/Discord related
+ZCZC W06 200 L03 GitHub related
+ZCZC W06  30 L32 YouTube: study, etc.
+ZCZC W06  55 L21 Trying something
+ZCZC W06  15 L07 Demo related
+ZCZC W06  20 L08 AsDos: asking, etc.
+ZCZC W06 120 L80 Waching: Movie, YouTube, TV, etc.
