@@ -61,3 +61,11 @@ ZCZC W06  55 L21 Trying something
 ZCZC W06  15 L07 Demo related
 ZCZC W06  20 L08 AsDos: asking, etc.
 ZCZC W06 120 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W07  50 L01 SCELE/Discord related
+ZCZC W07  90 L02 ZOOM meetings related
+ZCZC W07  60 L09 Assignment in General
+ZCZC W07  20 L05 Quiz related
+ZCZC W07  10 L03 GitHub related
+ZCZC W07  20 L81 Listening: Radio, Music, etc.
+ZCZC W07  30 L64 Helping OS related problem to a friend.
+ZCZC W07  40 L21 Trying something

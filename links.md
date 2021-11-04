@@ -59,7 +59,10 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 
 3. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)<br>IPC digunakan untuk bertukar data antara beberapa utas dalam satu atau lebih proses atau program. Proses dapat berjalan pada satu atau beberapa komputer yang terhubung oleh jaringan. 
 
+**Week 07**
+1. [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>Deadlock terjadi ketika setiap proses memegang resource dan menunggu resource lain dipegang oleh proses lain. Sedangkan starvation adalah masalah yang terjadi ketika proses berprioritas tinggi terus dijalankan dan proses berprioritas rendah diblokir untuk waktu yang tidak terbatas.
 
+2. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>Website ini menjelaskan hampir seluruh materi yang sedang dibahas pada OS dengan singkat. Process synchronization adalah tugas mengoordinasikan pelaksanaan proses sedemikian rupa sehingga tidak ada dua proses yang dapat memiliki akses ke data dan resource bersama yang sama.
 
 Link will be updated throughout the week!
 
