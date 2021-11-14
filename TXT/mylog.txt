@@ -69,3 +69,8 @@ ZCZC W07  10 L03 GitHub related
 ZCZC W07  20 L81 Listening: Radio, Music, etc.
 ZCZC W07  30 L64 Helping OS related problem to a friend.
 ZCZC W07  40 L21 Trying something
+ZCZC W08 120 L01 SCELE/Discord related
+ZCZC W08 120 L02 ZOOM meetings related
+ZCZC W08 150 L09 Assignment in General
+ZCZC W08  20 L22 Quiz
+ZCZC W08  10 L08 AsDos: asking, etc.

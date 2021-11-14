@@ -64,5 +64,10 @@ Hi! Thank you for visiting my repo. This repo contains links that might be helpf
 
 2. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>Website ini menjelaskan hampir seluruh materi yang sedang dibahas pada OS dengan singkat. Process synchronization adalah tugas mengoordinasikan pelaksanaan proses sedemikian rupa sehingga tidak ada dua proses yang dapat memiliki akses ke data dan resource bersama yang sama.
 
+**Week 08**
+1. [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>Multiple processor berfokus pada perancangan fungsi penjadwalan untuk sistem yang terdiri dari 'lebih dari satu prosesor'. Dengan beberapa prosesor dalam sistem, pembagian beban menjadi layak tetapi membuat penjadwalan lebih kompleks.
+
+2. [Scheduling](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html)<br> Scheduling memutuskan bagaimana menggunakan waktu prosesor di komputer. Sasarannya adalah untuk memberikan layanan yang efisien kepada semua pengguna. 
+
 Link will be updated throughout the week!
 
